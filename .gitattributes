@@ -24,3 +24,4 @@ videos/review[[:space:]]21[[:space:]](15[[:space:]]min)[[:space:]]Part[[:space:]
 videos/review[[:space:]]22[[:space:]](15[[:space:]]min).mp4 filter=lfs diff=lfs merge=lfs -text
 videos/review[[:space:]]23[[:space:]](15[[:space:]]min)[[:space:]]Part[[:space:]]1.mp4 filter=lfs diff=lfs merge=lfs -text
 videos/review[[:space:]]23[[:space:]](15[[:space:]]min)[[:space:]]Part[[:space:]]2.mp4 filter=lfs diff=lfs merge=lfs -text
+videos/review[[:space:]]24[[:space:]](15[[:space:]]min).mp4 filter=lfs diff=lfs merge=lfs -text
